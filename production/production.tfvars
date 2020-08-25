@@ -1,0 +1,5 @@
+aws_access_key   = ""
+aws_secret_key   = ""
+environment_tag  = "production"
+billing_code_tag = "12345678"
+bucket_name      = "tayotf"

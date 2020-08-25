@@ -1,0 +1,5 @@
+terraform.tfstate
+.terraform
+terraform.tfstate.backup
+accesskey
+monday.pem
